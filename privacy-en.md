@@ -2,7 +2,7 @@
 
 Revision dated October 17, 2026.
 
-Developer: **Andrei Gavrilenko (Андрей Гавриленко)**, an individual operating from the Russian Federation. The developer acts as the personal data controller for support correspondence received. Privacy contact: **gaavr.apps@yandex.ru**.
+The controller of support correspondence is the Grams developer, Andrei Gavrilenko. Privacy contact: **gaavr.apps@yandex.ru**.
 
 Grams is a food diary with calculations and statistics. This policy describes information used on your device, shared with external services, and information you may choose to send to the developer.
 

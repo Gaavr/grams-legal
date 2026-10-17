@@ -1,6 +1,6 @@
 # Grams support
 
-Grams is a food diary with calculations and statistics. Developer: Andrei Gavrilenko (Андрей Гавриленко), an individual in Russia.
+Grams is a food diary with calculations and statistics.
 
 For app and privacy questions: **gaavr.apps@yandex.ru**. See the [privacy policy](privacy-en.md) for information about data processing.
 
