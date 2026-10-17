@@ -2,7 +2,7 @@
 
 Revision dated October 17, 2026.
 
-Developer: **Andrei Gavrilenko (Андрей Гавриленко)**, an individual operating from the Russian Federation. The developer acts as the personal data controller for support correspondence received. Privacy contact: **gaavr.apps@gmail.com**.
+Developer: **Andrei Gavrilenko (Андрей Гавриленко)**, an individual operating from the Russian Federation. The developer acts as the personal data controller for support correspondence received. Privacy contact: **gaavr.apps@yandex.ru**.
 
 Grams is a food diary with calculations and statistics. This policy describes information used on your device, shared with external services, and information you may choose to send to the developer.
 
@@ -62,13 +62,13 @@ You can revoke camera and microphone access in device settings. This does not de
 
 If you send a daily report using the system share menu, the selected app or recipient receives its contents. External websites apply their own policies when you follow their links.
 
-If you email **gaavr.apps@gmail.com**, the developer receives your email address, sender name if supplied by your email app, subject, message, date and time, any attachments you send, and delivery headers. Header contents depend on the email service and may include delivery route information. These data concern people contacting support or making a request about their data. They are used to answer and resolve your request. You do not need to send an email to use Grams. Please do not send passwords, your entire diary database, or medical documents; a description and a screenshot without personal information are usually enough to report an issue. Addresses from support requests are not used for promotional mailings. Before sending a screenshot, hide names, addresses, and health information. You do not need to send your full diary to report an issue: where possible, describe it using fictional foods and values. Contacting support does not mean that you consent to advertising, publication of your message, or any further use of your information.
+If you email **gaavr.apps@yandex.ru**, the developer receives your email address, sender name if supplied by your email app, subject, message, date and time, any attachments you send, and delivery headers. Header contents depend on the email service and may include delivery route information. These data concern people contacting support or making a request about their data. They are used to answer and resolve your request. You do not need to send an email to use Grams. Please do not send passwords, your entire diary database, or medical documents; a description and a screenshot without personal information are usually enough to report an issue. Addresses from support requests are not used for promotional mailings. Before sending a screenshot, hide names, addresses, and health information. You do not need to send your full diary to report an issue: where possible, describe it using fictional foods and values. Contacting support does not mean that you consent to advertising, publication of your message, or any further use of your information.
 
 The support button pre-fills a subject containing the app version and a draft body containing the Grams version, device type (such as iPhone), and iOS version. The app does not automatically attach your diary, profile, Health measurements, photos, audio, or diagnostic logs. If you attach them yourself, they also become available to the recipient. You can edit or remove these details before sending. Opening the draft does not send the email to the developer; the selected email app and its service handle the draft.
 
 To handle a request, the developer receives, reads, stores and, where needed, corrects the correspondence, uses it to reply, and then deletes it under the rules below. Processing uses an email service and email app.
 
-Support email is hosted by Gmail (Google). Google processes the address, message content, attachments, and technical information to deliver and store email under its [privacy policy](https://policies.google.com/privacy?hl=en).
+Support email is hosted by Yandex Mail (Yandex LLC, Russia). Yandex processes the address, message content, attachments, and technical information to deliver and store email under its [privacy policy](https://yandex.com/legal/confidential/).
 
 Ordinary support correspondence, including replies and attachments, is kept for no longer than **90 calendar days after the last message in the conversation**. Correspondence is deleted earlier once its purpose has been fulfilled and there is no remaining basis for retention, or where applicable law requires a shorter period. The 90 days are a maximum, not a minimum retention period. This period applies to the mailbox and other copies under the developer's control, including downloaded attachments. Messages are also removed from Trash.
 
@@ -76,7 +76,7 @@ You may request earlier deletion by writing to the same address. Personal data r
 
 Specific information may be kept longer only where necessary to meet an applicable legal obligation or to establish, exercise, or defend legal claims. Only the necessary portion is retained, and only for a justified period. For example, where the law requires evidence of data destruction, the necessary records of completing the request are retained separately from ordinary correspondence for the legally required period; this does not justify keeping all messages and attachments. If deletion is refused in whole or in part, the developer will explain the reason and the applicable retention period or criterion, unless that notice is prohibited by law.
 
-Deletion from the mailbox does not mean that all of Google's technical and backup copies are immediately erased: those are subject to [Google's retention and deletion rules](https://policies.google.com/technologies/retention?hl=en). Copies in your own mailbox also remain under your control.
+Deletion from the mailbox does not mean that all of Yandex's technical and backup copies are immediately erased: those are subject to the retention rules described in Yandex's [privacy policy](https://yandex.com/legal/confidential/). Copies in your own mailbox also remain under your control.
 
 ## Retention, deletion, and your choices
 
@@ -94,7 +94,7 @@ Device backups are managed separately through Apple and may also contain earlier
 
 Removal of the corresponding Health samples is separate from diary deletion and is subject to the conditions in the Apple Health section above. Removing Grams and its local device data does not automatically delete Health data, existing iCloud copies, backups, or support correspondence. You can manage data held in Apple's services and backups using Apple's controls.
 
-You can edit and delete entries in the app, turn sync off, and revoke permissions, subject to the limitations described above. These actions do not automatically disable online search. For questions about your information and requests to exercise your rights, contact **gaavr.apps@gmail.com**. The developer cannot remotely open your local database or manage your Apple Account, but can explain the available controls and handle requests relating to information the developer holds, such as correspondence.
+You can edit and delete entries in the app, turn sync off, and revoke permissions, subject to the limitations described above. These actions do not automatically disable online search. For questions about your information and requests to exercise your rights, contact **gaavr.apps@yandex.ru**. The developer cannot remotely open your local database or manage your Apple Account, but can explain the available controls and handle requests relating to information the developer holds, such as correspondence.
 
 Where GDPR applies to the processing of your data, you may, in the circumstances it provides, request access and a copy, correction, erasure, restriction of processing, and portability, object to processing, and withdraw consent where processing is based on it. Withdrawal does not affect the lawfulness of processing before withdrawal. You may also lodge a complaint with a competent data protection authority. Requests are answered within one month; complexity or a large number of requests may justify up to two additional months, with an explanation within the first month. Requests are normally free of charge. Reasonable doubts about identity may require proportionate verification. A refusal will explain the reasons and the right to complain to a supervisory authority and seek a judicial remedy. The availability of individual rights and exceptions depends on the operation and its legal basis.
 
@@ -104,7 +104,7 @@ For users in other countries, the rights and deadlines under the applicable law 
 
 ## Recipients and international processing
 
-Depending on the feature used, recipients include Apple services, Open Food Facts, Google when you contact the Gmail support address, and recipients you select for reports. External services also apply their own policies. The absence of a developer-operated server does not mean information is processed exclusively in your country. Processing and storage locations depend on the service and settings; Grams does not promise that all information is held in a single country.
+Depending on the feature used, recipients include Apple services, Open Food Facts, Yandex when you contact the support address, and recipients you select for reports. External services also apply their own policies. The absence of a developer-operated server does not mean information is processed exclusively in your country. Processing and storage locations depend on the service and settings; Grams does not promise that all information is held in a single country.
 
 ## Changes to this policy
 

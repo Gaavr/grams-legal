@@ -5,4 +5,4 @@
 - [Политика конфиденциальности](privacy-ru.md) · [Privacy policy](privacy-en.md)
 - [Поддержка](support-ru.md) · [Support](support-en.md)
 
-gaavr.apps@gmail.com
+gaavr.apps@yandex.ru

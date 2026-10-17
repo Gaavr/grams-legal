@@ -2,7 +2,7 @@
 
 Grams is a food diary with calculations and statistics. Developer: Andrei Gavrilenko (Андрей Гавриленко), an individual in Russia.
 
-For app and privacy questions: **gaavr.apps@gmail.com**. See the [privacy policy](privacy-en.md) for information about data processing.
+For app and privacy questions: **gaavr.apps@yandex.ru**. See the [privacy policy](privacy-en.md) for information about data processing.
 
 ## Reporting an issue
 
@@ -10,7 +10,7 @@ Describe what you did, what you expected, and what happened. Include your Grams 
 
 A screenshot is optional. Before sending one, hide names, addresses, dates of birth, health information, and other personal details. Please do not send passwords, sign-in codes, identity documents, medical records, a Health export, or your full diary database. You do not need to email support to use Grams.
 
-The support button creates an editable draft with the app version, device type, and iOS version. The app does not send it automatically. Attachments you add become available to the recipient. Support email uses Gmail/Google.
+The support button creates an editable draft with the app version, device type, and iOS version. The app does not send it automatically. Attachments you add become available to the recipient. Support email uses Yandex Mail.
 
 ## Your information and deletion
 
