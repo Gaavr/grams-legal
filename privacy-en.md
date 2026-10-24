@@ -1,6 +1,6 @@
 # Grams privacy policy
 
-Revision dated October 17, 2026.
+Revision dated October 24, 2026.
 
 The controller of support correspondence is the Grams developer, Andrei Gavrilenko. Privacy contact: **gaavr.apps@yandex.ru**.
 
@@ -50,11 +50,11 @@ Open Food Facts processes requests under its [privacy policy](https://world.open
 
 ## Camera, voice, and saved photos
 
-The camera reads barcodes. Barcode reading and speech recognition run on your device; Grams does not send audio or camera images to recognition servers. Downloading Apple's system models may require a network connection.
+The camera reads barcodes and, if you choose, takes a recipe photo. Barcode reading and speech recognition run on your device; Grams does not send audio or camera images to recognition servers. Downloading Apple's system models may require a network connection.
 
 Recognized names and barcodes may subsequently be used for online search. A photo saved with a food or recipe may be included in iCloud sync if you turn it on.
 
-New recipe photos are saved as re-encoded images without the original metadata: location coordinates, capture date, camera information, and author details. Image orientation and transparency are preserved. Previously saved photos are not automatically cleaned: any metadata in those files may remain in local and cloud copies. Originals in your photo library are not changed. The app does not use photo coordinates for nutrition calculations.
+New recipe photos are saved as re-encoded images without the original metadata: location coordinates, capture date, camera information, and author details. Image orientation and transparency are preserved, and the longer side is reduced to 2048 pixels. Previously saved photos are not automatically cleaned: any metadata in those files may remain in local and cloud copies. Originals in your photo library are not changed. The app does not use photo coordinates for nutrition calculations.
 
 You can revoke camera and microphone access in device settings. This does not delete previously saved photos or their copies.
 
